@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taruna Bansal</h1>
-<h3 align="center">MERN Stack Developer | B.Tech CSE Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">MERN Stack Developer | Full Stack Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 - 👩‍💻 MERN Stack Developer passionate about crafting full-stack web apps  
-- 📚 Currently pursuing **B.Tech in CSE** at J.C.D.M. College (2021–2025)  
 - 🌱 Constantly exploring **React, Node.js, MongoDB, Tailwind CSS**  
 - 🛠️ Love solving real-world problems and building responsive UIs  
 
@@ -19,11 +14,11 @@
 
 ### 🔧 [Car Service Website](https://softechhhcarservice.netlify.app/)
 A full-featured service booking platform with authentication and real-time scheduling.  
-**Tech:** MERN, Bootstrap, REST APIs
+**Tech Stack:** MERN, Bootstrap, REST APIs
 
 ### 📊 [Expense Tracker Website](https://softechexpenseease.netlify.app/)
 Real-time personal finance tracker with filters and data visualizations.  
-**Tech:** MERN, Chart.js, Tailwind CSS
+**Tech Stack:** MERN, Chart.js, Tailwind CSS
 
 ---
 
@@ -43,8 +38,8 @@ Real-time personal finance tracker with filters and data visualizations.
 
 ## 📚 Education
 
-- 🎓 **B.Tech in CSE**, J.C.D.M. College of Engineering (2021–2025) – 79.64%
-- 🏫 **Senior Secondary**, Maharaja Agarsain School – 78.60%
+- 🎓 **Computer Science Engineering**, J.C.D.M. College of Engineering (2021–2025) – 79.64%  
+- 🏫 **Senior Secondary**, Maharaja Agarsain School – 78.60%  
 - 🏫 **Secondary**, D.A.V. School Sirsa – 92%
 
 ---
@@ -52,18 +47,17 @@ Real-time personal finance tracker with filters and data visualizations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taruna-bansal&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taruna-bansal&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taruna-bansal&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taruna-bansal&theme=radical" width="48%" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/Taruna_Bansal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taruna-bansal-883403353/)
-[![Gmail](https://img.shields.io/badge/tarunabansal7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunabansal7373@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taruna%20Bansal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taruna-bansal-883403353/)
+[![Gmail](https://img.shields.io/badge/Gmail-tarunabansal7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunabansal7373@gmail.com)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
-
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
